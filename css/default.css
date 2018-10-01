@@ -1,5 +1,6 @@
 @charset "UTF-8";
 body{
+  background-color: #f8f4e6;
   background-image: url(https://raw.githubusercontent.com/kougei-abe/web2-3/master/img/drink_coffee_tea_woman.png);
   background-repeat: repeat;
 }
