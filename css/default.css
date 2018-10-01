@@ -17,9 +17,6 @@ p{
 li{
   font-size: 0.8em;
 }
-. umber{
-  color: #6f5436;
-}
 a:link{
   color: #ffc1c1;
 }
@@ -29,4 +26,10 @@ a:visited{
 a:hover{
   color: #c1e0ff;
 }
-
+. umber{
+  color: #6f5436;
+}
+#title{
+  color: #626063;
+  font-weight: bold;
+}
