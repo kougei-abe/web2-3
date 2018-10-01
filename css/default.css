@@ -23,6 +23,9 @@ p{
 li{
   font-size: 0.8em;
 }
+dt{
+  font-size: 0.8em;
+}
 a:link{
   color: #ffc1c1;
 }
