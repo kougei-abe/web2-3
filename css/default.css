@@ -2,11 +2,11 @@
 body{
   background-color: #fff4ea;
 }
-h1 span{
-  font-size: 2em;
-}
 h1{
   font-size: 1.75em;
+}
+h1 span{
+  font-size: 2em;
 }
 h2{
   font-size: 1.25em;
