@@ -1,16 +1,26 @@
 @charset "UTF-8";
 body{
   background-color: #fff4ea;
-  }
+}
 h1{
   font-size: 1.75em;
-  }
+}
 h2{
   font-size: 1.25em;
-  }
+}
 p{
   font-size: 0.8em;
-  }
+}
 li{
   font-size: 0.8em;
-  }
+}
+a:link{
+  color: #ffc1c1;
+}
+a:visited{
+  color: #ff6666;
+}
+a:hover{
+  color: #c1e0ff;
+}
+
