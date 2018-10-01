@@ -1,6 +1,8 @@
 @charset "UTF-8";
 body{
   background-color: #fff4ea;
+  background-image: url(/img/drink_coffee_tea_woman.png);
+  background-repeat: repeat;
 }
 h1{
   font-size: 1.75em;
